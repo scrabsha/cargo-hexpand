@@ -14,6 +14,7 @@ fn hygiene_test() -> i32 {
 
 fn main() {
     println!("Hello, world!");
+
     let x = hygiene_test();
     println!("x is {x}");
 }

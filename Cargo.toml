@@ -8,5 +8,3 @@ edition = "2021"
 rustc_private=true
 
 [dependencies]
-ring = "0.16.20"
-data-encoding = "2.4.0"
